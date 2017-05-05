@@ -21,7 +21,7 @@ push	- makes a new top level of stack and COPIES the previous top
 	  to the new top level. REMEMBER, THIS MUST BE A COPY, NOT
 	  A POINTER TO THE OLD TOP
 
-pop	- pops off the top of the stack (doesn't return anything)
+pop	- pops off the top of the stack (doesnt return anything)
 
 
 Transformations
